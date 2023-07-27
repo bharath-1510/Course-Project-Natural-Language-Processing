@@ -1,0 +1,1 @@
+Pytesseract is a Python wrapper for Tesseract, an OCR (Optical Character Recognition) engine. Tesseract is an open-source OCR engine developed by Google that can recognize over 100 languages and has support for Unicode.
