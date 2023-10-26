@@ -28,10 +28,10 @@ occurs and the final score or mark is produced.</li>
 </ul>
 
 <h3>Implementation</h3>
-![Alt text](![output_1](https://github.com/bharath-1510/Course-Project-Natural-Language-Processing/assets/89100001/94efe776-3f78-437b-b66d-d25a13621163) "Answer written by Student")
+![image](https://github.com/bharath-1510/Course-Project-Natural-Language-Processing/assets/89100001/94efe776-3f78-437b-b66d-d25a13621163)
 
-![Alt text](![output_4](https://github.com/bharath-1510/Course-Project-Natural-Language-Processing/assets/89100001/823f797b-8030-4493-858e-ca3e55006243) "Predicted Scores for handwritten answers")
+![image](https://github.com/bharath-1510/Course-Project-Natural-Language-Processing/assets/89100001/823f797b-8030-4493-858e-ca3e55006243)
 
-![Alt text]( ![output_5](https://github.com/bharath-1510/Course-Project-Natural-Language-Processing/assets/89100001/7b0f4ea8-70b3-487e-b44e-07711257249b) "Predicted written into excel")
+![image](https://github.com/bharath-1510/Course-Project-Natural-Language-Processing/assets/89100001/7b0f4ea8-70b3-487e-b44e-07711257249b)
 
 
