@@ -28,7 +28,8 @@ occurs and the final score or mark is produced.</li>
 </ul>
 
 <h3>Implementation</h3>
-![image](https://github.com/bharath-1510/Course-Project-Natural-Language-Processing/assets/89100001/94efe776-3f78-437b-b66d-d25a13621163)
+![image](![output_1](https://github.com/bharath-1510/Course-Project-Natural-Language-Processing/assets/89100001/d4a9116e-32eb-493f-b160-27c6a6a736b5)
+)
 
 ![image](https://github.com/bharath-1510/Course-Project-Natural-Language-Processing/assets/89100001/823f797b-8030-4493-858e-ca3e55006243)
 
