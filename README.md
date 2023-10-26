@@ -28,6 +28,7 @@ occurs and the final score or mark is produced.</li>
 </ul>
 
 <h3>Implementation</h3>
+
 ![Alt text](/img/output.png "Answer written by Student")
 
 ![image](https://github.com/bharath-1510/Course-Project-Natural-Language-Processing/assets/89100001/823f797b-8030-4493-858e-ca3e55006243)
