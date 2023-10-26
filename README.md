@@ -33,9 +33,11 @@ Answer Writtern by Student
 ![Alt text](/img/output.png "Answer written by Student")
 
 Predicted Scores from Student answers
+
 ![image](https://github.com/bharath-1510/Course-Project-Natural-Language-Processing/assets/89100001/823f797b-8030-4493-858e-ca3e55006243)
 
 Final Answer written in excel
+
 ![image](https://github.com/bharath-1510/Course-Project-Natural-Language-Processing/assets/89100001/7b0f4ea8-70b3-487e-b44e-07711257249b)
 
 
